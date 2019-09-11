@@ -3,7 +3,7 @@
     <div v-if="cart <= 0 && !isComplete">
       <div class="px-3 py-3 pt-md-5 text-center d-flex justify-conten-between flex-column">
         <h3 class="display-5"> Ups!! Your cart is empty </h3>
-        <p class="lead">Click below to begin your amazing rental experience with SampleApp</p>
+        <p class="lead">Click below to begin your amazing rental experience with TopView</p>
         <router-link to="/rent-a-bike" class="btn btn-outline-primary align-self-center mb-3">Rent-A-Bike</router-link>
         <small class="text-muted">This App was developed by Julian Tejera using Vue.js. jats.tejera@gmail.com</small>
       </div>

@@ -1,4 +1,4 @@
-# SampleApp
+# TopView
 
 ## Project setup
 ```
