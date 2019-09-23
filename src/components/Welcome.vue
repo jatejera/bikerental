@@ -5,7 +5,7 @@
     </div>
     <h1 class="display-4">
       Welcome to
-      <br />TopView Bike Rental
+      <br />DemoApp Bike Rental
     </h1>
     <p class="lead">
       We have an amazing collection of bikes for rent. Your satisfaction is very important to us. Click
